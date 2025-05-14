@@ -36,7 +36,7 @@ A full-stack Next.js application for a cryptocurrency news dashboard with Twitte
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/crypto-news-dashboard.git
+git clone https://github.com/tausif-ahmed/XNewsBot.git
 cd crypto-news-dashboard
 ```
 
